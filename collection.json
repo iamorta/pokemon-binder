@@ -1,7 +1,13 @@
 {
   "schemaVersion": 3,
   "sets": {
-    "ME4": {},
+    "ME4": {
+      "me4-1-1": {
+        "quantity": 1,
+        "tradeQuantity": 0,
+        "wanted": false
+      }
+    },
     "ME5": {},
     "ME3": {}
   }
